@@ -1,4 +1,4 @@
-### ⸢ Hi there ⸥ &emsp;&emsp; <img src="https://media.giphy.com/media/DL16f8WL3mKOc/giphy.gif" width="50px" />
+### ⸢ Hi there ⸥ &emsp;&emsp; <img src="https://media.giphy.com/media/DL16f8WL3mKOc/giphy.gif" />
 
 <a href="https://www.linkedin.com/in/passeriform/">
   <img align="left" alt="linkedin" width="26px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
@@ -28,8 +28,8 @@ I'm [Utkarsh Bhardwaj](https://www.passeriform.com/about/utkarsh-bhardwaj), a se
 
 I have about 2.5 years of professional experience in the industry as a software developer covering fullstack developement, systems development, automation, CICD and infrastructure management. And I believe there's a bunch more interesting stuff to cover so I'm looking to get into anything that catches my eye.
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="36px" /> Got some freelance work for me? Sweet! Reach out to me [here](mailto:bhardwajutkarsh.ub@gmail.com).
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="36" /> Got some freelance work for me? Sweet! Reach out to me [here](mailto:bhardwajutkarsh.ub@gmail.com).
 
-<img src="https://media.giphy.com/media/26FlrxySR053aqbtu/giphy.gif" width="36px" /> Want to reach out for no reason whatsoever? That's also welcome [here](mailto:bhardwajutkarsh.ub@gmail.com).
+<img src="https://media.giphy.com/media/26FlrxySR053aqbtu/giphy.gif" width="36" /> Want to reach out for no reason whatsoever? That's also welcome [here](mailto:bhardwajutkarsh.ub@gmail.com).
 
-<img src="https://media.giphy.com/media/hSKc558Puuj3LIlAfc/giphy.gif" width="36px" /> Or else... if you really want to &emsp; <a href="https://www.buymeacoffee.com/utkarshbhardwaj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<img src="https://media.giphy.com/media/hSKc558Puuj3LIlAfc/giphy.gif" width="36" /> Or else... if you really want to &emsp; <a href="https://www.buymeacoffee.com/utkarshbhardwaj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
