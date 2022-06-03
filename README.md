@@ -40,7 +40,7 @@ I have about 2.5 years of professional experience in the industry as a software 
 ### 📈 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=passeriform&show_icons=true&theme=gotham" alt="passeriform" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=passeriform&show_icons=true&theme=radical" alt="passeriform" align="center"/>
 </p>
   <br />
 <p align="center">
