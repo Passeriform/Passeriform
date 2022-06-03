@@ -33,3 +33,9 @@ I have about 2.5 years of professional experience in the industry as a software 
 <img src="https://media.giphy.com/media/26FlrxySR053aqbtu/giphy.gif" width="36" /> Want to reach out for no reason whatsoever? That's also welcome [here](mailto:bhardwajutkarsh.ub@gmail.com).
 
 <img src="https://media.giphy.com/media/hSKc558Puuj3LIlAfc/giphy.gif" width="36" /> Or else... if you really want to &emsp; <a href="https://www.buymeacoffee.com/utkarshbhardwaj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+### 📈 My Stats
+<img src="https://github-readme-stats.vercel.app/api?username=passeriform&show_icons=true&theme=gotham" alt="passeriform" align="left"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=passeriform&theme=radical&rank=-C&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
