@@ -25,15 +25,17 @@ I'm [Utkarsh Bhardwaj](https://www.passeriform.com/about/utkarsh-bhardwaj), a se
 - 🪄🌟💻 I, wish into existence, meaningful, well-planned and comprehensible solutions, to my computing problems.
 - 🔭✨ I like to explore various domains of expertise and cross-pollinate ideas to introduce sense into nonsensical programming. I wish to not be bored and to tickle my fancy I like to dabble in the most outlandish paradigms out there.
 
+<br />
 
 I have about 2.5 years of professional experience in the industry as a software developer covering fullstack developement, systems development, automation, CICD and infrastructure management. And I believe there's a bunch more interesting stuff to cover so I'm looking to get into anything that catches my eye.
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="36" /> Got some freelance work for me? Sweet! Reach out to me [here](mailto:bhardwajutkarsh.ub@gmail.com).
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="36" /> &emsp; Got some freelance work for me? Sweet! Reach out to me [here](mailto:bhardwajutkarsh.ub@gmail.com).
 
-<img src="https://media.giphy.com/media/26FlrxySR053aqbtu/giphy.gif" width="36" /> Want to reach out for no reason whatsoever? That's also welcome [here](mailto:bhardwajutkarsh.ub@gmail.com).
+<img src="https://media.giphy.com/media/26FlrxySR053aqbtu/giphy.gif" width="36" /> &emsp; Want to reach out for no reason whatsoever? That's also welcome [here](mailto:bhardwajutkarsh.ub@gmail.com).
 
-<img src="https://media.giphy.com/media/hSKc558Puuj3LIlAfc/giphy.gif" width="36" /> Or else... if you really want to &emsp; <a href="https://www.buymeacoffee.com/utkarshbhardwaj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<img src="https://media.giphy.com/media/hSKc558Puuj3LIlAfc/giphy.gif" width="36" /> &emsp; Or else... if you really want to &emsp; <a href="https://www.buymeacoffee.com/utkarshbhardwaj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+<br />
 
 ### 📈 My Stats
 
