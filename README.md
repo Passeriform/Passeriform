@@ -36,6 +36,8 @@ I have about 2.5 years of professional experience in the industry as a software 
 
 
 ### 📈 My Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=passeriform&show_icons=true&theme=gotham" alt="passeriform" align="left"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=passeriform&theme=radical&rank=-C&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=passeriform&theme=radical&rank=-C&row=2&column=4" alt="trophy" align="right"/>
+
