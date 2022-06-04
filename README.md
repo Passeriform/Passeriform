@@ -44,6 +44,6 @@ I have about 2.5 years of professional experience in the industry as a software 
 </p>
   <br />
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=passeriform&theme=radical&rank=-C&row=2&column=4" alt="trophy" align="center"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=passeriform&theme=radical&rank=-C&row=1" alt="trophy" align="center"/>
 </p>
 
