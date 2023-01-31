@@ -22,7 +22,7 @@
 
 I'm [Utkarsh Bhardwaj](https://www.passeriform.com/about/utkarsh-bhardwaj), a self-motivated, hyper-optimized, violently experimental, definitely not re-animated by cordyceps, developer and software engineer.
 
-- 🪄🌟💻 I, wish into existence, meaningful, well-planned and comprehensible solutions, to my computing problems.
+- 🪄🌟💻 I, wish into existence, meaningful, well-planned and comprehensible solutions to my computing problems.
 - 🔭✨ I like to explore various domains of expertise and cross-pollinate ideas to introduce sense into nonsensical programming. I wish to not be bored and to tickle my fancy I like to dabble in the most outlandish paradigms out there.
 
 <br />
