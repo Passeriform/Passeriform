@@ -7,7 +7,7 @@
   <img align="left" alt="instagram" width="26px" src="https://api.iconify.design/mdi/instagram.svg?color=white" />
 </a>
 <a href="https://angel.co/u/passeriform/">
-  <img align="left" alt="angellist" width="26px" src="https://api.iconify.design/fa-brands/angellist.svg?color=white" />
+  <img align="left" alt="angellist" width="26px" src="https://api.iconify.design/la/angellist.svg?color=white" />
 </a>
 <a href="https://discordapp.com/users/425754505989193749">
   <img align="left" alt="discord" width="26px" src="https://api.iconify.design/simple-icons/discord.svg?color=white" />
