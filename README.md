@@ -1,19 +1,19 @@
 ### ⸢ Hi there ⸥ &emsp;&emsp; <img src="https://media.giphy.com/media/DL16f8WL3mKOc/giphy.gif" />
 
 <a href="https://www.linkedin.com/in/passeriform/">
-  <img align="left" alt="linkedin" width="26px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
+  <img align="left" alt="linkedin" width="26px" src="https://api.iconify.design/mdi/linkedin.svg?color=white" />
 </a>
 <a href="https://www.instagram.com/the_og_passeriform/">
-  <img align="left" alt="instagram" width="26px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
+  <img align="left" alt="instagram" width="26px" src="https://api.iconify.design/mdi/instagram.svg?color=white" />
 </a>
 <a href="https://angel.co/u/passeriform/">
-  <img align="left" alt="angellist" width="26px" src="https://camo.githubusercontent.com/682280402aa6fc3a1e7846dcbf74198ade53d0af9efd858421751e662dea55a8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e67656c6c6973742e737667" />
+  <img align="left" alt="angellist" width="26px" src="https://api.iconify.design/fa-brands/angellist.svg?color=white" />
 </a>
 <a href="https://discordapp.com/users/425754505989193749">
-  <img align="left" alt="discord" width="26px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" />
+  <img align="left" alt="discord" width="26px" src="https://api.iconify.design/simple-icons/discord.svg?color=white" />
 </a>
 <a href="mailto:bhardwajutkarsh.ub@gmail.com">
-  <img align="left" alt="gmail" width="26px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
+  <img align="left" alt="gmail" width="26px" src="https://api.iconify.design/mdi/email-outline.svg?color=white" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=passeriform.passeriform)
