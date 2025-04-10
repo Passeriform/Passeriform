@@ -27,7 +27,7 @@ I'm [Utkarsh Bhardwaj](https://www.passeriform.com/about/utkarsh-bhardwaj), a se
 
 <br />
 
-I have about 2.5 years of professional experience in the industry as a software developer covering fullstack developement, systems development, automation, CICD and infrastructure management. And I believe there's a bunch more interesting stuff to cover so I'm looking to get into anything that catches my eye.
+I have 5 years of professional experience in the industry as a software developer covering fullstack developement, systems development, automation, CICD and infrastructure management. And I believe there's a bunch more interesting stuff to cover so I'm looking to get into anything that catches my eye.
 
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="36" /> &emsp; Got some freelance work for me? Sweet! Reach out to me [here](mailto:bhardwajutkarsh.ub@gmail.com).
 
