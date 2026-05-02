@@ -21,6 +21,10 @@
   - 🪄🌟💻 I wish into existence, meaningful, well-planned and comprehensible solutions to my computing problems.
   - 🔭✨ I like to explore various domains of expertise and cross-pollinate ideas to introduce sense into nonsensical programming.
   -  I wish to not be bored and to tickle my fancy I like to dabble in the most outlandish paradigms out there.
+
+</section>
+
+<section id="professional">
   
   I have <b>5 years</b> of professional experience in the industry as a software developer covering
   - Fullstack developement
@@ -30,6 +34,7 @@
   - Infrastructure management
   
   And I believe there's a bunch more interesting stuff to cover so I'm looking to get into anything that catches my eye.
+
 </section>
 
 <section id="callToAction">
@@ -45,11 +50,12 @@
 
 ### 📈 My Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=passeriform&show_icons=true&theme=radical" alt="passeriform" align="center"/>
-</p>
-  <br />
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=passeriform&theme=radical&rank=-C&row=1" alt="trophy" align="center"/>
-</p>
-
+<section id="stats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=passeriform&show_icons=true&theme=radical" alt="passeriform" align="center"/>
+  </p>
+    <br />
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=passeriform&theme=radical&rank=-C&row=1" alt="trophy" align="center"/>
+  </p>
+</section>
