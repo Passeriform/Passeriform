@@ -1,39 +1,45 @@
-### ⸢ Hi there ⸥ &emsp;&emsp; <img src="https://media.giphy.com/media/DL16f8WL3mKOc/giphy.gif" />
+### <span class="code">⸢ Hi there ⸥</span> &emsp; <img src="https://media.giphy.com/media/DL16f8WL3mKOc/giphy.gif" height="27" align="top" />
 
-<a href="https://www.linkedin.com/in/passeriform/">
-  <img align="left" alt="linkedin" width="26px" src="https://api.iconify.design/mdi/linkedin.svg?color=white" />
-</a>
-<a href="https://www.instagram.com/the_og_passeriform/">
-  <img align="left" alt="instagram" width="26px" src="https://api.iconify.design/mdi/instagram.svg?color=white" />
-</a>
-<a href="https://angel.co/u/passeriform/">
-  <img align="left" alt="angellist" width="26px" src="https://api.iconify.design/la/angellist.svg?color=white" />
-</a>
-<a href="https://discordapp.com/users/425754505989193749">
-  <img align="left" alt="discord" width="26px" src="https://api.iconify.design/simple-icons/discord.svg?color=white" />
-</a>
-<a href="mailto:bhardwajutkarsh.ub@gmail.com">
-  <img align="left" alt="gmail" width="26px" src="https://api.iconify.design/mdi/email-outline.svg?color=white" />
-</a>
+<section class="socials">
+  <a href="https://discordapp.com/users/425754505989193749">
+    <img align="left" alt="discord" width="26px" src="https://api.iconify.design/simple-icons/discord.svg?color=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/passeriform/">
+    <img align="left" alt="linkedin" width="26px" src="https://api.iconify.design/mdi/linkedin.svg?color=white" />
+  </a>
+  <a href="mailto:bhardwajutkarsh.ub@gmail.com">
+    <img align="left" alt="gmail" width="26px" src="https://api.iconify.design/mdi/email-outline.svg?color=white" />
+  </a>
+</section>
 
-![](https://visitor-badge.glitch.me/badge?page_id=passeriform.passeriform)
+![](https://hits.dwyl.com/Passeriform/Passeriform)
 
-<br />
+<section id="introduction">
 
-I'm [Utkarsh Bhardwaj](https://www.passeriform.com/about/utkarsh-bhardwaj), a self-motivated, hyper-optimized, violently experimental, definitely not re-animated by cordyceps, developer and software engineer.
+  I'm <a href="https://www.passeriform.com">Utkarsh Bhardwaj</a>, a self-motivated, hyper-optimized, violently experimental (definitely not re-animated by cordyceps), developer and software engineer.
+  
+  - 🪄🌟💻 I wish into existence, meaningful, well-planned and comprehensible solutions to my computing problems.
+  - 🔭✨ I like to explore various domains of expertise and cross-pollinate ideas to introduce sense into nonsensical programming.
+  -  I wish to not be bored and to tickle my fancy I like to dabble in the most outlandish paradigms out there.
+  
+  I have <b>5 years</b> of professional experience in the industry as a software developer covering
+  - Fullstack developement
+  - Systems development
+  - Automation
+  - CICD
+  - Infrastructure management
+  
+  And I believe there's a bunch more interesting stuff to cover so I'm looking to get into anything that catches my eye.
+</section>
 
-- 🪄🌟💻 I, wish into existence, meaningful, well-planned and comprehensible solutions to my computing problems.
-- 🔭✨ I like to explore various domains of expertise and cross-pollinate ideas to introduce sense into nonsensical programming. I wish to not be bored and to tickle my fancy I like to dabble in the most outlandish paradigms out there.
+<section id="callToAction">
 
-<br />
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="24" align="top" /> &emsp; Got some freelance work for me? Sweet! Reach out to me <a href="mailto:bhardwajutkarsh.ub@gmail.com">here</a>.
 
-I have 5 years of professional experience in the industry as a software developer covering fullstack developement, systems development, automation, CICD and infrastructure management. And I believe there's a bunch more interesting stuff to cover so I'm looking to get into anything that catches my eye.
+  <img src="https://media.giphy.com/media/26FlrxySR053aqbtu/giphy.gif" height="24" align="top" /> &emsp; Want to reach out for no reason whatsoever? That's also welcome [here](mailto:bhardwajutkarsh.ub@gmail.com).
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="36" /> &emsp; Got some freelance work for me? Sweet! Reach out to me [here](mailto:bhardwajutkarsh.ub@gmail.com).
-
-<img src="https://media.giphy.com/media/26FlrxySR053aqbtu/giphy.gif" width="36" /> &emsp; Want to reach out for no reason whatsoever? That's also welcome [here](mailto:bhardwajutkarsh.ub@gmail.com).
-
-<img src="https://media.giphy.com/media/hSKc558Puuj3LIlAfc/giphy.gif" width="36" /> &emsp; Or else... if you really want to &emsp; <a href="https://www.buymeacoffee.com/utkarshbhardwaj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+  <img src="https://media.tenor.com/lVsqOjum0MYAAAAj/bird-white.gif" height="24" align="top" /> &emsp; Or else... if you really want to &emsp; <a href="https://www.buymeacoffee.com/utkarshbhardwaj" target="_blank"><img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-black.svg" alt="Buy Me A Coffee" align="top" ></a>
+</section>
 
 <br />
 
