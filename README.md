@@ -60,3 +60,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=passeriform&theme=radical&rank=-C&row=1" alt="trophy" align="center"/>
   </p>
 </section>
+
+<!-- Comment to trigger an update -->
