@@ -43,8 +43,6 @@
 
 <img src="https://media.giphy.com/media/26FlrxySR053aqbtu/giphy.gif" height="24" align="top" /> &emsp; Want to reach out for no reason whatsoever? That's also welcome [here](mailto:bhardwajutkarsh.ub@gmail.com).
 
-<img src="https://media.tenor.com/lVsqOjum0MYAAAAj/bird-white.gif" height="24" align="top" /> &emsp; Or else... if you really want to &emsp; <a href="https://www.buymeacoffee.com/utkarshbhardwaj" target="_blank"><img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-black.svg" alt="Buy Me A Coffee" align="top" ></a>
-
 </section>
 
 <br />
