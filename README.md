@@ -39,12 +39,17 @@
 
 <section id="callToAction">
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="24" align="top" />&emsp;Got some freelance work for me? Sweet! Reach out to me [here](mailto:bhardwajutkarsh.ub@gmail.com).
+  <p>
+    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="24" align="top" />&emsp;Got some freelance work for me? Sweet! Reach out to me [here](mailto:bhardwajutkarsh.ub@gmail.com).
+  <p/>
 
-<img src="https://media.giphy.com/media/26FlrxySR053aqbtu/giphy.gif" height="24" align="top" />&emsp;Want to reach out for no reason whatsoever? That's also welcome [here](mailto:bhardwajutkarsh.ub@gmail.com).
+  <p>
+    <img src="https://media.giphy.com/media/26FlrxySR053aqbtu/giphy.gif" height="24" align="top" />&emsp;Want to reach out for no reason whatsoever? That's also welcome [here](mailto:bhardwajutkarsh.ub@gmail.com).
+  <p/>
 
-<img src="https://media.tenor.com/lVsqOjum0MYAAAAj/bird-white.gif" height="24" align="top" />&emsp;Or else... if you really want to&emsp;<a href="https://www.buymeacoffee.com/utkarshbhardwaj" target="_blank"><img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-black.svg" alt="Buy Me A Coffee" align="top" ></a>
-
+  <p>
+    <img src="https://media.tenor.com/lVsqOjum0MYAAAAj/bird-white.gif" height="24" align="top" />&emsp;Or else... if you really want to&emsp;<a href="https://www.buymeacoffee.com/utkarshbhardwaj" target="_blank"><img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-black.svg" alt="Buy Me A Coffee" align="top" ></a>
+  </p>
 </section>
 
 <br />
