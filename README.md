@@ -25,14 +25,14 @@
 </section>
 
 <section id="professional">
-  
+
   I have <b>5 years</b> of professional experience in the industry as a software developer covering
   - Fullstack developement
   - Systems development
   - Automation
   - CICD
   - Infrastructure management
-  
+
   And I believe there's a bunch more interesting stuff to cover so I'm looking to get into anything that catches my eye.
 
 </section>
@@ -60,5 +60,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=passeriform&theme=radical&rank=-C&row=1" alt="trophy" align="center"/>
   </p>
 </section>
-
-<!-- Comment to trigger an update -->
